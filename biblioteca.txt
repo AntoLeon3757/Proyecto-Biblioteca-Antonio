@@ -1,0 +1,9 @@
+Rayuela,Julio Cortázar,1963,Punto de Lectura,9788426401535,736
+Orgullo y prejuicio,Jane Austen,1813,Thomas Egerton,9780141439518,432
+Matar a un ruiseñor,Harper Lee,1960,J.B. Lippincott & Co.,9780061120084,281
+La Odisea,Homero,-800,Alianza Editorial,9788420673761,560
+Crimen y castigo,Fiódor Dostoyevski,1866,Penguin Classics,9780143107637,671
+1984,George Orwell,1949,Secker & Warburg,9780451524935,328
+Don Quijote de la Mancha,Miguel de Cervantes,1605,Espasa Calpe,9788467036001,1056
+El nombre de la rosa,Umberto Eco,1980,DeBolsillo,9780156030434,536
+Cien años de soledad,Gabriel García Márquez,1967,Sudamericana,9780060883287,417
